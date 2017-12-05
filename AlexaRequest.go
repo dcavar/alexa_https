@@ -1,6 +1,6 @@
 /*
 AlexaRequest.go
-(C) 2017 by Damir Cavar (http://damir.cavar.me/), Rashmi Bidanta, Prateek Shrivastava.
+(C) 2017 by Damir Cavar (http://damir.cavar.me/), Rashmi Bidanta, Prateek Srivastava.
 
 Defining the structrs for the Alexa Request JSON.
 

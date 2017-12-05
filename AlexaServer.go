@@ -1,5 +1,5 @@
 /*
-(C) 2017 by Damir Cavar (http://damir.cavar.me/), Rashmi Bidanta, Prateek Shrivastava
+(C) 2017 by Damir Cavar (http://damir.cavar.me/), Rashmi Bidanta, Prateek Srivastava
 
 to compile:
 go build AlexaServer.go AlexaRequest.go
