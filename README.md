@@ -2,8 +2,13 @@
 
 (C) 2017 by [Damir Cavar], Rashmi Bidanta, Prateek Srivastava
 
-This is an example implementation of an <a href="https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-a-web-service.html">HTTPS Alexa Skill</a> interface (or <a href="https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-a-web-service.html">Custom Skill</a>) to process <a href="https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html">Alexa JSON requests</a> and generate
-a response programmed in <a href="https://golang.org/">Go</a>.
+This is an example implementation of an
+<a href="https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-a-web-service.html">HTTPS Amazon Alexa Skill</a>
+interface (or
+<a href="https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-a-web-service.html">Custom Skill</a>)
+to process
+<a href="https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html">Alexa JSON requests</a>
+and generate a response programmed in <a href="https://golang.org/">Go</a>.
 
 
 ## The HTTPS Server
