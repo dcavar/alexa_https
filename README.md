@@ -1,6 +1,6 @@
 # Alexa HTTPS Server in Go
 
-(C) 2017 by [Damir Cavar], Rashmi Bidanta, Prateek Srivastava
+(C) 2017 by [Damir Cavar], [Rashmi Bidanta], [Prateek Srivastava]
 
 This is an example implementation of an
 <a href="https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-a-web-service.html">HTTPS Amazon Alexa Skill</a>
@@ -148,4 +148,5 @@ And, finally we submit the entire request to the XML-RPC server:
 
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar homepage"
-
+[Rashmi Bidanta]: https://github.com/rbidanta "Rashmi Bidanta GitHub page"
+[Prateek Srivastava]: https://github.com/prateek22sri "Prateek Srivastava GitHub page"
